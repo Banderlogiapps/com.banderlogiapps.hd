@@ -4,6 +4,8 @@
 
 ### Контакты
 
-```markdown
+
 Группа Вконтакте: https://vk.com/dotersassistaint
 e-mail: banderlogiapps@gmail.com
+
+```markdown
