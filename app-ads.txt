@@ -748,7 +748,7 @@ loopme.com,11314,RESELLER,6c8d5f95897a5a3b
 triplelift.com,11656,RESELLER,6c33edb13117fd86
 appnexus.com,13227,RESELLER
 inmobi.com,f58140d7af1a4fcb83deb5b1c76f0c04,RESELLER,83e75a7ae333ca9d
-yandex.com,4a3ee1320126148be60ba4d6cf33c3e5,RESELLER
+yandex.com,4a3ee1320126148be60ba4d6cf33c3e5,DIRECT
 smaato.com,1100042823,RESELLER,07bcf65f187117b4
 video.unrulymedia.com,123476257,RESELLER
 pubmatic.com,158565,RESELLER,5d62403b186f2ace
